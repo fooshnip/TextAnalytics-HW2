@@ -1,0 +1,35 @@
+/**
+Joseph Riley
+
+A plain text file “lintel.txt” containing one regular expression that the following finite
+automaton recognizes. This is the automaton discussed in class that was used to count lintels
+that come out of a manufacturing line and that could slide back and forth before being finally
+ejected.
+
+This diagram uses upper case (on) and lower case (off) instead of the labels “on” and “off” or
+the up and down arrows we used in class. This convention should make regular expressions
+easier to type. S is the initial state. The double circle represents an accepting state: A string is
+recognized by the automata if the automata is in an accepting state after the last symbol has
+been processed.
+*/
+
+Applied state reduction and have a handwritten explanation prior to this point.
+
+When reducing to four possible paths, we are left with the following:
+
+S to itself (A):
+(Aa)*
+
+S to output (B):
+(A(Bb)*Ba)
+
+O to itself (C):
+(Aa|Ab(Bb)*Ba)*
+
+O to start (D):
+(b|Ab(Bb)*a)
+
+In reduced form, we are left with (A|BC*D)*BC*
+
+Finally, the full form is:
+((Aa)*|(A(Bb)*Ba)(Aa|Ab(Bb)*Ba)*(b|Ab(Bb)*a))*(A(Bb)*Ba)(Aa|Ab(Bb)*Ba)*
