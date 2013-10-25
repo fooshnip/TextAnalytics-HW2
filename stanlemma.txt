@@ -1,0 +1,5 @@
+Joseph Riley
+
+Printing tokens by sentence...
+
+helloedu.stanford.nlp.process.Morphology@86c347
