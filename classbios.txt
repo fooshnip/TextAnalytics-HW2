@@ -1,0 +1,313 @@
+01 ------------------------------------------------------------------------------------------------------------------------
+
+I was born in Blackfoot Idaho on November 20, 1985 and grew up in
+Aberdeen Idaho, which consists of about 1200 people. I’m the oldest of
+four kids which include me and my three younger sisters. The school I
+attended was very small with only about 50 in my graduating class.
+Fortunately, some of my close friends and I really got into interested
+in computer hardware and software programming and were able to each
+other a lot. After high school I went to Brigham Young University
+where I studied economics and math. Between my junior and senior year
+I married my wife Lori and in 2011 I graduated with my bachelor’s
+degree. I originally planned on going on to earn a PhD in economics
+but enjoyed the application side of econometrics more and decided to
+go into consulting instead. I took an offer from Accenture and for two
+years was located in their Sacramento office. While most of my work
+was for the state of California, I did gain some experience in both
+healthcare and the tech industry, but very little of the work I did
+was analytical. In 2012 I started looking for programs in analytics to
+apply to, and this same year my wife and I had our daughter Hailey.
+
+Some of the things I enjoy doing in my spare time are working on my
+programming skills, reading (especially books on analytics such as
+Super Crunchers), and digital photography with my Canon D650.
+
+
+
+I decided to take this class for several reasons. First, it looked
+like a great opportunity to practice my Java and Python programming
+skills. Second, I’ve really enjoyed text mining in the past. At work I
+was given the task to go through word documents and delete references
+to clients before we uploaded the documents to an internal site. This
+was all being done manually, but I was able to write some basic VBA
+code that did a decent job. I’ve also really enjoy web scraping. I use
+this all the time in my personal life. For example I have some code
+that looks up the prices of diapers at different stores so I can see
+what store has the best deal that week. I’m really looking forward to
+learning the fundamentals of text analytics.
+
+
+02 ------------------------------------------------------------------------------------------------------------------------
+
+Austin’s intellectual journey has largely been shaped by his desire to understand the nature of the decision-making process. As far as he was concerned, there was no skill more important than the ability to make logical, objectively-defensible decisions. Austin’s first academic pursuits involved several philosophy classes examining ethics and cognitive metaphysics during his first two years at Stanford. By his junior year, his interests shifted towards economics and, more specifically, microeconomics and game theory. While taking his first econometrics class, he became fascinated by the process of extracting the underlying information from large data sets. During his senior year, he approached this topic from a variety of angles by taking relevant classes in statistics, advanced econometrics, and data mining. His primary interests include classification models, linear regression, and data visualization.
+
+Upon graduating in 2011, he began working at Eat24Hours as a quantitative analyst. A fast-growing internet start-up, Eat24 considered itself a “food delivery network,” connecting hungry customers across the country with local restaurants for hassle-free food delivery. Working directly with the CEO, Austin performed a multitude of tasks, including: creating metrics to evaluate growth; interpreting and analyzing customer behavior based on completed order data; implementing (and evaluating the success of) advertising campaigns across multiple media forms; projecting the lifetime value of customers and potential restaurant partners; and forecasting regional and nationwide sales at the daily, monthly, and yearly level. In addition to his occupational responsibilities, Austin has applied his newfound analytical techniques to sports data (particularly professional football), resulting in several independent research projects.
+
+His current project uses a fixed-effect regression to transform game-by-game NFL data into an ordinal ranking of teams. These “power rankings” have been adopted by sports-handicapping website Picks4Players, and have led to an internship opportunity with the company as a statistical consultant. This year-long immersion into the field of analytics sparked Austin’s desire to return to school to continue his studies. His favorite classes from the program so far include Data Mining, Predictive Analytics, and Data Visualization. Over the summer, he worked as a Business Intelligence Engineer for the Demand Forecasting team at Amazon.com in Seattle.
+
+His interest in text analytics stems from the idea of sentiment analysis, particularly when applied to the field of sports handicapping. Mining tweets and sports websites for public reaction would likely shed insight on a team's odds heading into upcoming games.
+
+03 ------------------------------------------------------------------------------------------------------------------------
+
+I am originally from central Illinois and studied finance at Augustana College in the Quad Cities
+
+in Illinois. After I graduated I moved to Chicago to work for Google's Motorola as a financial analyst,
+
+where I quickly realized I had little interest in corporate finance. My first taste of analytics came in
+
+college when I developed a purchasing model using inventory data from a building materials company.
+
+After using simulation to build a model, complex with interest costs and price fluctuations, I proposed a
+
+system that would have automated many of the purchasing manager’s ordering decisions.
+
+ Following this project, my interest in the field snowballed. I started to push for more statistical
+
+analysis in financial scenarios and outside of my work , I also developed an in-game data-sorting
+
+program for football coaches. With the program, my goal was to allow coaches to apply Bayesian
+
+principles and combine there own intuition with hard data to make faster decisions during the game.
+
+Through these pursuits I found that in addition to the wide applicability of analytics, I am attracted
+
+to its interdisciplinary nature—the demand for creative problem solving, the practical applications of
+
+statistics, and the challenge of communicating innovative solutions.
+
+Although my goals with analytics are not narrowly focused yet, general areas I'm attracted to
+
+include third world development, medical research, national security, and professional sports. Text
+
+analytics has large-scale applications in national security and medical research, where massive amounts
+
+of text provide opportunities for unstructured data analysis. It seems that the possibilities with text
+
+analytics are as abundant as any other application of analytics, simply because of the amount of
+
+unstructured data being generated all the time in emails, blogs, text messages, etc. Through this class, I
+
+hope to gain a better understanding of the methods and applications of this type of analysis.
+
+04 ------------------------------------------------------------------------------------------------------------------------
+
+
+I am Biswa. I am originally from India. I was born and brought up in the City of Joy, Kolkata. I did
+
+bachelors in engineering from National Institute of Technology Durgapur, India. Then I worked in
+
+software industry in Hyderabad for about six years. And now I am a graduate student in Masters in
+
+Analytics program in Northwestern University. I am excited about the Text Analytics course.
+
+Through this course I would like to learn opinion mining, entity extraction from websites, Natural
+
+Language Processing and more. I want to apply these techniques in Healthcare, education and
+
+marketing domains.  I have intermediate level knowledge in Java. Hope I will have a good time in the
+
+course.
+
+05 ------------------------------------------------------------------------------------------------------------------------
+
+My name is William Chiu. I am auditing Text Analytics. This is my first course that deals exclusively with unstructured data. The course is my attempt to get out of my comfort zone and learn something unfamiliar. I hope to learn the intuition behind the techniques behind the algorithms and be competent enough to discuss them to an interviewer.
+I first became interested in text analytics when I heard that law firms could use software to classify whether a document was relevant to a case. I was also impressed by the text summarization software that was sold to Yahoo.
+
+
+06 ------------------------------------------------------------------------------------------------------------------------
+
+My name is wan lo, isaac is my English name.  My background was a computer science as an undergrad at Carnegie Mellon.  Then I took an interest in finance and worked as an investment analyst and eventually an investment manager.
+
+I always took an interest in analytics.  But with recent development in big data, and new academic program in analytics.  After looking at various programs, northwestern was the best choice among them all.  The decision was difficult as whether to catch on the wave of big datA early or not. Eventually I decided to take the chance.
+
+
+Text analytics is an ideal class as it is an important part of big data.  I look forward to learn more about it and most importantly, have some fun with it.
+
+07 ------------------------------------------------------------------------------------------------------------------------
+
+Shawna’s curiosity for quantifying the world around her fueled her desire to study economics and sociology as an undergraduate at the University of Illinois at Urbana-Champaign.  She has worked in the field of market research since graduating in 2006.  Shawna is an experienced primary research analyst who has focused her career in quantitative online survey research.  From questionnaire design to final presentation, Shawna has managed studies for clients including Apple, Allstate, Bank of America, Jim Beam, Johnson & Johnson, JP Morgan Chase, Kraft Foods, and Sears Holding Corporation.  Her most recent work focused on advertising effectiveness research in the TV and digital space.  Her past research involves tracking studies and product development in financial services and high tech.  Shawna’s professional interests include data visualization and video game analytics.
+ However after spending 6 years in the  survey research industry, she felt limited in her analytics skills. In a world where companies are constantly collecting consumer data, survey data represents a diminishing slice of the data pie. She felt limited in her analytic abilities at wanted to focus her research efforts on real data vs. self reported data. Growing overly comfortable with limited highly cleaned data sets, Shawna was eager to work with more unstructured data sets. But where to find such an outlet to explore? 
+Shawna was struggling to find an outlet to grow her analytics knowledge. She was mostly considering MBA programs with a focus on business analytics. However, none of these would fully satisfy the statistical and data warehousing knowledge she was seeking. She them stumbled upon the Northwestern MSiA analytics program. This was the perfect blend of professional development she was seeking without any of the softer “business skills” classes she was looking to avoid. 
+One year later, she is incredibly pleased with the knowledge and experiences gained from the program. While the inaugural cohort has been a bit rocky, Shawna is excited that her feedback (along with her peers) helped to improve the program for future cohorts. She feels comfortable implementing predictive analytics and is rapidly gaining proficiencies in a number of programming languages like R, javascript, and java. 
+In here free time she loves to play video games and tinker with crafting, sewing and construction projects. 
+This past summer she worked in the video game industry as a business analyst for the World of  Warcraft with Blizzard entertainment. Here she was able to merge her love for gaming and analytics into one role.  Her summer project focused on monetization strategies for the World of Warcraft.  Working with video game data and player behavior data has always been a dream. Outside of her core project, she had the opportunity to work with the other members of the analytics team at Blizzard including reporting development in Tableau, data warehousing, and explaining statistical models to non-stats stakeholders such as marketing analytics and executives.
+Shawna would like to continue to work in the video game industry in her careers. Text analytics plays an important role in that especially as more games incorporate social elements like in-game chatting.  She has no doubt that she will be able to apply her text mining knowledge in her future roles.  Additionally, one of the other interns at Blizzard this summer worked on a text analytics project where he was clustering customer service tickets into subject groups based on the content of the text such as game bugs, gameplay complaints, etc... This solidified her interest in this course as it would be highly valuable to the advancement of her career. 
+
+
+08 ------------------------------------------------------------------------------------------------------------------------
+
+My name is Jamie Squires and I am very excited to be a part of this class. I graduated last year from the University of Portland in Portland, Oregon where I majored in Operations and Technology Management and minored in Mathematics. Coming into the M.S. in Analytics program at Northwestern, I wasnÃ¢â‚¬â„¢t sure what my interests in the field were. I was initially drawn to the program because I wanted to combine my passion for solving business problems with my love for working with numbers. This programÃ¢â‚¬â„¢s emphasis on professional industry experience and technical curriculum seemed to be the perfect fit. After my first year in the program, I realized that I enjoyed studies focusing on human or customer behaviors such as customer segmentation and clustering analysis. In addition, I enjoyed learning about different ways to show information through different visualization techniques. This past summer, I put my new analytical skills to use when I interned in the Revenue Management & Analytics department at the Walt Disney Company in Florida. I worked in the Parks and Resorts division, and mainly looked at customer demand data coming from the agent call centers and online. I predominantly used Tableau, SAS, and SQL to create and build reports showing information pertaining to which resorts and hotels guests were booking to, and how different promotions affected these behaviors throughout the year. In this role, I gained a new understanding of the importance of text analytics in a basic problem. I realized that any given promotion (for example, Ã¢â‚¬Å“6 for 5 room only offerÃ¢â‚¬ ) would be called something slightly different depending on which database and department I was pulling the information from. It might be Ã¢â‚¬Å“6th night freeÃ¢â‚¬  or Ã¢â‚¬Å“RO Offer FY13Ã¢â‚¬  depending on which department published it. Therefore, when I was in the process of creating a promotional calendar for our team, it was extremely cumbersome trying to group promotions in my queries. I had several lines of SQL code where I was trying to identify all of the different ways we could call a simple promotion. If we were given a numeric code that was consistent, this problem would be eliminated. This is an example of why I am intrigued by the study of text analytics, as we will be getting to see the Ã¢â‚¬ËœhumanÃ¢â‚¬â„¢ or unstructured aspect of the data in terms of words instead of the easy and straightforward methods of identifying numbers. I think that my interest in human factors was one of the main reasons why I wanted to be in this class. As we discussed during the first day in class, there are numerous ways that text analytics has found its way into our every lives- both in the classroom and out. In high school and college, the days of finding a free essay on the internet are long gone with plagiarism checkers like turnitin.com. However, text analytics can also be as simple as finding a piece of work that you are interested in. For instance, before I downloaded Shazam on my phone, I used to google the lyrics to a song I heard that I liked but didnÃ¢â‚¬â„¢t know what it was called or who recorded it. It is quite remarkable that the accurate song is often returned.  Moving forward, I think that text analytics will only become more important and relevant in our lives and IÃ¢â‚¬â„¢m excited to learn more about this topic.
+
+
+
+09 ------------------------------------------------------------------------------------------------------------------------
+
+Hello,
+
+Originally from Champaign, IL, I obtained my B.S. in Aerospace Engineering from the University of Illinois in 2008.  During this time, I worked as a student analyst for IllinoisVentures, an early stage technology investment firm.  Responsibilities included research into market potential, supply chain analysis, and investigation of the competitive advantages of the targeted emerging technologies.  In 2006, as a member of the student run Office for Technical Consulting Resources, I partnered with Motorola to gather relevant market data, observe trending in particular customer demographics, and provide
+suggestions during two separate product releases.
+
+Before entering this program, I spent 4 years in the Aerospace industry working for United Technology Aerospace Systems.  As a mechanical design engineer, I was positioned in Montreal, Quebec, as a technical focal for the development of the high lift system on a Bombardier large, business aircraft platform.  Additional major projects included dynamic system modeling, design of emergency power components, and implementation of data collection and analysis strategies targeting specific product failures.
+
+This summer I worked within the ecommerce analytics group at Walgreens.  While there, I was able to implement a targeted marketing approach, assist with the launch of a big data platform, and perform proof of concept modeling with social media data sources.
+
+I am excited to be a part of this class and look forward to the rest of the quarter. As we were able to see during the first class, the application of text analytics spans most industries and many analytic processes. Therefore, I feel that the concepts covered during these next few weeks will prove useful regardless of my career path.
+
+
+
+10 ------------------------------------------------------------------------------------------------------------------------
+
+My name is Alice Zhao and I’m excited to be taking the text analytics course this fall!
+My interest in analyzing text started in middle school. My 7th grade math teacher gave us a really cool extra credit assignment one time where she had us map letters to numbers (a = 1, b = 2… z = 26) and submit the largest value words we could find. For example – the word “candy” would have a value of 47 (3 + 1 + 14 + 4 + 25). My math teacher promised to award extra credit points for the largest value words of 5 characters, 6 characters, etc.
+Being the eager student that I was, I immediately rushed home, opened up a dictionary and started browsing through the z’s. (This may sound old school, but it was the 1990’s and I simply couldn’t just type “words with lots of z’s” into Google!) When my dad came home from work that night, he saw that I was studying the dictionary very intensely and asked what I was up to. I explained my assignment and he bet me that he could find higher value words than me in a shorter amount of time. Of course, I was intrigued.
+He went on to write an Excel VBA program to read in text files, list all of the words found in the text file, assign values to the words and sort the words by value. We then copied and pasted text excerpts from our most recent version of Microsoft Encarta on CD-ROM and repeatedly ran the program to find the value of thousands of words. In much less time, we found huge value words of every length. I was super excited to share my findings with my class the next day.
+I handed in a hand-written slip of paper to my math teacher with high value words of every length and she was clearly impressed. I distinctly remember her saying to the class “Alice and her dad wrote a computer program to do the extra credit!” (and me feeling very happy) and a kid yelling “hey, that’s cheating!” (and me feeling not so happy anymore). So… perhaps it was kind of cheating. :-P But, it sparked my interest in programming and automated searches and brought me to where I am today!
+As for my formal education, I graduated from Northwestern University with a bachelor’s degree in electrical engineering in 2008. Afterwards, I went on to work for Accenture in their IT consulting group out of the Chicago office before starting the MSiA program in 2012.
+My internship this past summer was at Redfin, an online real estate startup based in Seattle. One project my manager mentioned that sounded pretty interesting was to look through listing descriptions and figure out which ones were the most successful. It sounded like a great text analytics project, although at the time I didn’t know how to tackle it. Instead, I worked on projects during the summer that utilized techniques from our data mining, predictive analytics and data visualization courses.
+I feel like I’ve heard a lot about the power of text analytics – regular expressions, sentiment analysis, etc. – but I have little idea of where to start with the analysis, or what tools to use. So, that’s why I’m taking this class. I want to get practical experience in text analytics. I want to know how to start with what sounds like a vague, high level problem such as figuring out what makes a listing description successful, and know which steps to take and what techniques to use to find a solution.
+My immediate plan after graduation is to go back to my high school to teach a week-long course in analytics in January 2014. Afterwards, I’d like to work for a tech company in Chicago where I can exercise my data analytics skills. And finally, my long-term goal is to possibly teach analytics at either the high school or college level… perhaps back at Northwestern? We’ll see. :)
+
+
+11 ------------------------------------------------------------------------------------------------------------------------
+
+Next to the professor I am probably the most educated person in the class. I hold three degrees in mathematics: a Bachelors from Wake Forest, and a Masters and Doctorate from the University of Illinois. My thesis is in symplectic geometry, a branch of mathematics that evolved from the mathematical formalism for classical mechanics. I have studied a little of every subject in mathematics except advanced combinatorics.
+With my thesis nearing completion, and not being interested in a faculty position, I started considering nonacademic options. I took a course on machine learning and was hooked. After some time trying to get into the analytics industry through the back door, which usually turned out to be the servants’ entrance, I have decided to try the front door. This is why I am after yet another degree.
+Although I am interested in the whole data analytics framework, my principle interest continues to be machine learning. I have a particular fondness for support vector machines; I sense hints of algebraic geometry in its ability to construct nonlinear decision boundaries. My interest in text analytics probably stems from a love of reading more than anything else. I have an extensive library and make liberal use of the even more extensive library in town. I even read in the car thanks to the innovation of audio books. Since I have, historically, gotten all of my information from text in paragraph form, it seems natural that I should study how computers do the same thing. The fact that text analytics is the wave of the future is just icing on the cake.
+I’d like to learn how to do analytics on images as well, but I’m not sure when I’ll get around to that.
+As with many bookworms, the rest of my life probably looks pretty dull to outsiders. I prefer reading other peoples’ adventures to having my own. My reading list is varied, ranging from Tolkien to Dickens and Twain to P. G. Wodehouse to Graham Greene and John le Carre. Most people consider me a walking encyclopedia since I can wax eloquent on a diverse array of topics. I’ve dabbled in physics, linguistics, music, art, botany, zoology, geology, and have more than dabbled in history. Go ahead, ask me about the Byzantine Empire. I’m too cheap to eat out so cook all my food. Note that I did not say I cook well. I hold memberships in a couple museums and gardens. Probably the closest thing I have to a normal person hobby is playing board games, but I haven’t done that in a couple of months.
+I have managed to visit more than half the states in the country. I have been in or through every state east of the Mississippi except Tennessee and Mississippi itself, along with California, Colorado, Wyoming, and Hawaii.  Strangely enough I haven’t seen the Mississippi except from an airplane.
+
+12 ------------------------------------------------------------------------------------------------------------------------
+
+My name is Joe Riley, and I am a student in the MSIA program.  Although my undergraduate education was in finance and accounting, I had been exposed to text analytics in my previous career work.  I have additionally done some side projects involving basic text and sentiment analysis processes, and I hope this course will help to increase my knowledge base in what I’d consider to be a rather amateur education on text so far. 
+Prior to Northwestern, I worked for an investment research firm in Boston, Business Intelligence Advisors.  BIA was founded by ex-CIA polygraphers who were looking to apply their skills in the private sector.  They collaborated with some finance professionals and began analyzing public company’s quarterly earnings call transcripts, semi-structured events where management has a prepared speech which is followed by a Q&A section with sell-side analysts and other investors.  The job consisted of looking for particular linguistic patterns, assessing the combinations of these patterns and the business significance of the discussion. 
+When I entered the company, they had also begun building a text analytics platform to get consistency in application of their methodology as well as scale to cover the entire tradable universe.  Through my own interest in the tech side, I eventually worked my way over as the sole data analyst on the R&D team.  While I got exposure to a lot of the concepts listed on the syllabus, it was a bit of a constricted education at the time since I wasn’t coming from a CS or stats background and I needed to build those skills. 
+On the platform, they were utilizing some regex searches for patterns existing in a given sentence.  These search patterns were a mixture of POS and word phrases.  There was a lot of consistency in how someone might refuse to answer a question, but not necessarily in how they may try to use a lot of convincing language to possibly mask more underwhelming performance.  One key project I worked on was building out a custom key terms dictionary, mapping out and combining frequent n-grams to allow the identification and categorization of topics in questions.  This helped to explore whether all questions are created equal, or are certain topics of more value to particular companies.  Another fascinating, troublesome problem was working out whether management actually answered a given question.
+Overall, it was great experience, one in which I feel I could provide so much more value with our MSIA education so far, and it left me with a desire to at least consider text analytics as a career.  I am most interested in application in product management in terms of monitoring forums and social outlets, with particular focus on consumer entertainment.  Altogether, I’m excited for the course and I look forward to what we attempt with this dataset and the programming assignments you have in mind.
+
+
+13 ------------------------------------------------------------------------------------------------------------------------
+
+Where do I begin when describing myself? I suppose, like most other things in life, it’s best to start with the basics. My name is Scott Albrecht and I am twenty seven years old, soon to be twenty eight. I am the middle of three children and have two sisters. I also have three happy, energetic nephews that I enjoy spending time with. I’m engaged to a wonderful fiancé named Melissa and we are getting married next summer in Ann Arbor, Michigan. We have lived together in Chicago for the last three years. I was born and raised in Grand Rapids, Michigan. Growing up, I thought it was a terrible place to live because I always thought I was bored. Looking back on it now, that had more to do with my age and less to do with the city where I lived. After high school, I attended the University of Michigan where I obtained my Bachelors of Science in Industrial and Operations Engineering. I started my professional career as an associate consultant with Clarkston Consulting, an information technology (IT) and management consulting firm. I worked for Clarkston for five years specializing in designing and implementing data warehouse and reporting solutions for clients in the life sciences industry. My experience with organizational data management and reporting increased my knowledge about descriptive analytics but also piqued my interest in the analytics field because I recognized the competitive advantage companies could gain by using their data effectively.
+I began to research graduate programs in the Chicago area focused on developing analytical skills. Eventually, I found the Masters of Science in Analytics page on the Northwestern web-site and the material seemed to be exactly what I was looking for. I applied and was very excited when I learned that I had been accepted. I have enjoyed my experience in the program over the last four quarters. Specifically, I found my practicum project with the Chicago Park District, my internship with the Cleveland Cavaliers, and the data mining course with Professor Malthouse to be great learning experiences. These projects all focused on applying skills I learned in the program to real world data sets which is the common trait that made them so valuable. I hope this course in text analytics also focuses on the application of the material and uses real world data sets when applying them. I was interested in taking this course for the reason emphasized during the first class. Text analytics is a topic used by a wide range of industries and I feel that knowledge on this topic will be very valuable going forward. My main goal for this class is to develop enough expertise to be able to successfully complete a text analytics project for the organization I accept a position with after graduation.
+Most of my interests outside of the classroom involve sports. I enjoy watching many different types of sports including college and professional basketball, professional football, and golf. My favorite sport to watch is college football and my favorite team is the Michigan Wolverines. This seems obvious since I graduated from the University but my love for Michigan football started when I was young. Many of my best memories involve watching Michigan football games with my Dad. He’s the ultimate Wolverine fan and my passion for sports comes from him. In addition to watching sports I also enjoy playing basketball, football, golf, and tennis. During my time as an undergraduate I worked as a flag football and basketball offical, sports supervisor, and student coordinator. I’ve continued to work as an offical and supervisor here at Northwestern. These positions helped my transition to officiating high school football and basketball. In addition to sports, I like to be outside and try to stay in shape by running and riding my road bike around Chicago. I have a seventeen month year old boxer named Dez and enjoy taking him to the beach and the park. That’s a little bit about me and my goals for the class this semester.
+
+
+
+14 ------------------------------------------------------------------------------------------------------------------------
+
+I am Aniket Deshpande. I am from Bangalore, India. I did my under-grad in the field of Information Science and Engineering. After that I worked briefly with the IT giant Infosys Technologies Limited for about half a year and then switched to an analytics firm Mu Sigma to spend the next 2 and a half years there. I was instantly attracted to this world of data and numbers. During this time I worked on a myriad of projects under web analytics, retail analytics both descriptive and predictive. During one of these projects, where we were analysing customer survey data, we came across a huge dataset with a 7K+ text survey responses which we had to analyse and was of immense value to the client. But unfortunately none of us in the team had the right knowledge about the appropriate tools or techniques to use to mine and gain valuable patterns and insights out of this data. This led me greatly to be inquisitive about text mining and text analytics. The introductory class only enhanced my interest with the wide spectrum of its applications. By the end of this class i would hope to know what are the different methods and tools and techniques used in text analytics and which has to be applied in what scenario.
+
+
+
+15 ------------------------------------------------------------------------------------------------------------------------
+
+My name is Adrianna Jelesnianska and I am a graduate student at Northwestern University pursuing a Masters of Science in Analytics. I received my bachelors of science in Mathematics with a minor in Secondary Education from the University of Illinois at Urbana-Champaign. I have always enjoyed and excelled at mathematics from a young age and coming from a non-technical family, this was a bit of a shock to my parents. Statistics was always one of my favorite sections in Mathematics. I enjoyed solving real world problems and statistics was that one section in the book that asked believable real world problems. After taking an AP Statistics class, I thought that I could major in math and one day teach this amazing course!  Unfortunately, during student teaching I realized that this was not the right career path for me and started researching potential grad programs that would have statistics but give me real world experiences. I choose Northwestern’s program since it provided opportunity to work with real clients and solve business problems, something that many masters programs in statistics lack.
+     
+      Within analytics, I am open to analyze data in different fields but I would like to be able to stay within the prediction and visualization path of analytics. I enjoy digging into data sets and finding relationships and patterns that provide insights for businesses. I also enjoy the artistic and creative side of being able to tell the story through visualizations. Other interests outside of analytics are running, reading, traveling, food and sudoku. I have ran a half marathon before and am currently training for a 15K in November. I’ve traveled to Poland, the Caribbean, Greece and some places in the United States but I still love my city Chicago.
+     
+      Coming in with limited knowledge, I have gained a lot through the last year in this program. Currently we are in our last quarter and I chose to take Text Analytics. Early 2013, I read a blog and tutorial about sentiment analysis using the “twitteR” package in R. I then tried the tutorial on my own as well as decided to use R ggplot2 to map frequencies of the number of times certain airlines were used and find if those tweets were positive or negative reviews. It was an interesting experience and knew from there that I would like to understand what goes behind the scenes of building a mathematical model to understand text data. My students would always be scared when letter variables would replace numbers and feel as if their world was turned upside down. Text Analytics is that for data. We expect numbers but now we need to be prepared to take on other forms of data and text is my first step outside of the usual quantitative data.  We now are able to expand our math into the world of text, images and videos and that is very exciting to me. I hope to understand the design of algorithms that are used to understand text data and be able to think of ways that this could benefit a company other than searches and reviews. I am really looking forward to taking this class this quarter.
+
+
+16 ------------------------------------------------------------------------------------------------------------------------
+
+My interest in analytics began as a desire to leverage large amounts of data and utilize exciting mathematical models and algorithms to analyze and describe the world around me.  I studied mathematics, economics, and statistics as an undergraduate student at the University of Illinois.  I was underwhelmed by the positions I was recruited for and decided to attend the Master’s of Science in Analytics program at Northwestern to build technical skills and gain practical industry experience.
+The most exciting aspect of text analytics is that it exposes an entirely new realm of possibilities.  Much more meaningful information can be gathered from a single document (however that is defined) than from a standard transactional data point.  Text analytics can provide insight into a population’s opinion allowing an analyst predict trends and understand individuals more quickly and accurately.  Extracting meaning from seemingly unstructured information is precisely what excites me most about the power of analytics.
+I am most interested in learning about stemming, name-entity recognition, and weighting, particularly the mathematical models that are used.  I look forward to exploring libraries for Java or Python that assist in text analytics as well.  I plan to study optical character recognition independently, and am excited to draw on Professor Moraleda’s expertise.
+
+
+
+17 ------------------------------------------------------------------------------------------------------------------------
+
+
+My name is Papis Wongchaisuwat.
+My home town is Bangkok, Thailand.
+I am a PhD student in IEMS. I am currently working with Professor Diego.
+We are interested in some topics related to legal analytics.
+I got my Bachelor's degree in Industrial Engineering back in Thailand.
+Also, I got a master's degree in Financial Engineering from University of Illinois at Urbana-Champaign.
+I started my PhD program here since last winter quarter.
+After graduation, I will most probably get an academic job in a related field.
+
+About this course, Text Analytics or actually analytics is very new to me.
+I find it is an intersting topic which can be applied to various fields.
+I want to take this course in order to build up my knowledge which will be useful for my research.
+
+
+18 ------------------------------------------------------------------------------------------------------------------------
+
+
+My name is Laura Siahaan, and I am thrilled to be taking your text analytics class! I feel that text analytics is the most relevant elective for my professional career because of the prevalence of unstructured data and business needs to extract value from text. During my practicum project last year, my team worked with Chicago Park District registration data and we learned the difficulty in trying to match up multiple occurrences of the same customer when dealing with user free-form input data such as names, email, addresses, and ages. I hope my skills at working with messy data in diverse situations (such as this one) will improve with your text analytics class. I learned Java years ago as an undergrad, but I feel more comfortable with Python as I have used it for data cleansing more recently.
+Living in the Chicago-area and going to Northwestern is a return to my Midwestern roots for me. I grew up in Kansas, and then moved out to the Los Angeles area to get my undergraduate degree in Economics with a Sequence in Computer Science at Claremont McKenna College. After that, I stayed in Los Angeles and worked for four years in Technology Risk Consulting for Protiviti, a company that came from Arthur Anderson’s risk consulting practice, where I focused on security assessments and IT audit. In my most recent role as Senior Consultant, I regularly led daily project execution through facilitating client interviews, analyzing data, supervising/training consultants, and managing project schedules.  Additionally, I created recommendations for executives and technical staff through high-quality final deliverables, demonstrating an understanding of complex business processes. After working in a more qualitative field, I genuinely missed the frequent use of mathematics and statistics and decided to return to school for the Master’s in Analytics program.
+This summer, I had the amazing opportunity to intern at Jet Propulsion Laboratory in Pasadena, CA. I was excited to be one of the first data scientists at NASA and performed a prototype workforce forecasting accuracy analysis to showcase the importance of data science. I am enthusiastic about opportunities to understand the business context of each problem to provide innovative and well-thought-out data analytics solutions. I am especially interested in adding value with predictive analytics, data mining, and visualization. After I graduate in December, I hope to return to the Southern California area.
+
+
+19 ------------------------------------------------------------------------------------------------------------------------
+
+My name is Peter Schmidt and I am no stranger to Northwestern.  I graduated back in the day with a Bachelors of Science Degree in Computer Science.  Since then I have worked in the Information Technology department of several companies of all shape and size.   I started out in application development and then saw opportunity in the business intelligence and data warehousing space.   I worked my way up from hands-on development roles, to architecture and design, to finally senior management.   A common thread across most assignments was that I was building the IT systems that would be leveraged by members of the business community.   As I wanted to naturally progress further up the BI maturity level pyramid, at times it seamed that there was no counterpart on the business side to progress along as well.  It was this reason that I applied and subsequently accepted into the Masters of Science in Analytics program at Northwestern.
+
+I have encountered several situations in recent years where having a background in text analytics would have proved to be quite beneficial.  Two recent examples come to the surface.  For one company for which I worked, we were receiving roughly 18,000 customer reviews a week on restaurant experiences.   There was a rich set of data that just sat there.    There would have been such an opportunity to be able to do something more with that data.  In conjunction with the reviews, roughly 43,000 customer surveys provided an additional set of data that could have been incorporated as well.  A second example centered more around legal case documentation.  A friend of mine headed up a non-profit that was using the Freedom of information Act, FOIA, to request legal documents on several Chicago criminal cases.    It was being used to find patterns of discrimination with in the justice system.
+
+My goals for taking this class is to better understand the different algorithms and methodologies surrounding Text Analytics so that I could speak more fluently about the subject.  I would like to know how to determine usage of one algorithm or methodology over another.   I would also like to understand the practical approaches around implementation to solve a set of problems.  More broadly I have a deep interest in knowing how to design and develop analytic models and incorporate them into technology.  I want to be able to bring additional benefit to future engagements using analytics to find insights that can drive business or social value.  
+
+
+20 ------------------------------------------------------------------------------------------------------------------------
+
+I'm very excited to take Text Analytics, and look forward to learning more about you and your background. I've been interested in Analytics for about 8 years, but have only recently seriously explored the field (through the MSiA program). As for Text Analytics, I became very interested in the field during I project I worked on last Fall.
+
+I come from New Jersey, and also got my undergraduate degree from Northwestern in Industrial Engineering. I was exposed to analytics concepts like optimization and forecasting as an undergraduate, and took a particular liking to optimization. After graduating I spent two years as a consultant before I found myself working on side-Analytics projects and applying to NU for the second time (I'm 2 for 2!). I got in, and began the Masters program last September. Since starting back at NU, there have been two areas that have really captivated me. The first is predictive modeling/supervised machine learning, whatever you'd like to call it, and the second is application development. I bring up the second because it hammers home my interest in Text Analytics.
+
+Last fall, after placing out of an intro MSiA class (a bonus for having done my undergrad at NU), I took a class in the CS department titled Journalism and Technology. The gist of the class was that each class member was placed in a group and each group created a working prototype for an app that had "editorial value"; Medill speak for telling a compelling story. Our project was title "Neighborhood Buzz" and I worked with a truly gifted group of programmers, designers, and journalists. Here's the pitch:
+
+Neighborhood Buzz sought to record tweets from major metropolitan areas, categorize those tweets by content, and visualize the results on a map of that region.
+
+We ended up using a text classifier being developed by KnightLab at Northwestern, but the categorizations were deeply inaccurate. Nonetheless, the project showed promise and KnightLab picked it up to be developed professionally. I found the logic and linguistics behind the text classifier intriguing, but way over my head, and would love to learning more about how to give a machine the ability to understand human language, tone, and sentiment.
+
+One final comment. I spent my internship this summer working for an advertising agency. My role in analytics was to help provide insights that could help the creative/social/content/etc teams make smarter decisions. One huge question that agencies across the world are trying to answer is "How can we determine whether content will be effective before it is published?". That experience has directed my interest toward the specialized area of Content Analytics for a career after I graduate. I plan use analytics to identify the pulse of target demographics to guide strategic content decisions in the media, entertainment, and advertising industries.
+
+
+21 ------------------------------------------------------------------------------------------------------------------------
+
+My name is Colin Watts-FitzGerald and I am a graduate student enrolled in Northwestern University pursuing a Masters in Analytics. I am originally from Miami, Florida where I spent the first eighteen years of my life before moving to Chicago, Illinois for my undergraduate degree. I received my Bachelor of Science degree also from Northwestern University and it was in Industrial Engineering.
+My background in Industrial Engineering is what led me to pursue my current career goals in Analytics. I feel especially comfortable with the predictive modeling and hope to find a full-time job after I graduate that includes heavy modeling and statistics.
+I chose this particular class (Text Analytics) because I felt this was an interesting opportunity to learn something I have not really done at all within my career/education. While I am very strong with the math and statistics in analytics, I have rarely touched any kind of analysis that used text as the data. This kind of analytics could be useful in my career within the future and I also hope to get practice scraping data as well as learning about analytics tools I have never used before such as algorithms used on text.
+
+
+22 ------------------------------------------------------------------------------------------------------------------------
+
+I want to learn text analytics because it is challenging and fruitful. This class is an opportunity to learn about what is possible with computers and text while practicing Python. Although the focus of the class will be turning text into numbers and matrices, I anticipate there being a lot of room for creative presentation with visualization, something I am passionate about.
+
+I am originally from Chevy Chase, Maryland, a suburb just North of Washington DC. After getting my BS in Industrial Engineering here at Northwestern, I joined the Alpha cohort (Class of 2013) of MS in Analytics students. In the last year, I have met many amazing people and learned a tremendous amount. I look forward to capping things off this Fall with some of the most powerful and broadly applicable analytic techniques out there.
+
+Outside of school, competitive rowing is a big part of my life. I rowed for four years in high school and two here at Northwestern. Now I coach high school rowing for disadvantaged students in South Chicago.
+
+One of my goals for this class is to identify the strengths and weaknesses of text analytics as an approach to analysis. For example, how much wood could a woodchuck chuck if a woodchuck could chuck wood? Or how many boards could the Mongols hoard if the Mongol hoards got board? Can the computer tell those sentences are weird/wrong? I wonder.
+
+After graduation, I am hoping to work as a data scientist in the SF bay area. Fingers crossed!
+
+
+23 ----------------------------------------------------------------------------------------------
+
+Self-Introduction
+By Eunhee Emily Ko
+
+   My name is Eunhee (Emily) Ko and I am originally from Seoul, South Korea. I am a currently master’s student in MSiA program at Northwestern University and expected to graduate in December, 2013. I have bachelor’s degree in Psychology and Sociology and another master’s degree in Marketing and attempted doctorate degree in Marketing. About little private side of myself, I have a two-year old son living with me and a husband who studies his PhD in different state. I really love travelling all around world. I have been many countries in Europe, Thailand, several cities in China, Indonesia, Hong Kong, a couple of cities in Japan, Bahamas, and, of course, many cities in the US. I love especially small cities in Europe and was impressed by small towns in Italy such as Sorrento and Padua when I was in a college. Therefore, one of my short-time dreams in five-year is travelling all around the small towns in Europe with my family.
+   I have huge interest in Text Analytics because I am interested in both human-languages and analytics. I have tried sentiment analysis and clustering analysis with text documents previously and while I was doing the analyses, I felt that I am short of theoretical grounds behind the syntax (programming language) even if I was actually able to implement it. For example, exactly which algorithm and mathematical principle (or formula) are used in clustering analysis for text analytics? I am so pleased that I can officially learn these algorithms and theories from this class. For now, I am interested in text analytics more than any other analytical techniques, so I would like to keep learning and researching this field in the future. For instance, text analytics is being less researched with different languages even if there are numerous languages in the world. I want to extend the research methodologies used in text analytics to different languages (e.g., Korean). There is already a well-known methodology for text analytics called ‘Content Analysis’ in social science, but technical evolution in recent years makes it possible that we can conduct more advanced and sophisticated analyses with text documents and I am very happy with that. 
+
+
+24 ------------------------------------------------------------------------------------------------------------------------
+
+How are you? My name is Joon Lim from Master of Science in Analytics at Northwestern University. During my undergraduate years, I went to UC San Diego and studied Management Science and Accounting. It was great decision to come to Northwestern's Analytics program and I really enjoyed all the courses I took here. To be honest, not all but the most of them. I have a huge interest in sentimental analysis using hadoop supported NoSQL databases or hadoop+java. I have a very strong feeling that I will use sentimental analysis a lot later when I start my full-time career. Especially, I am interested in performing sentimental analysis on server logs, xml files, json files and html files. I will add my hadoop server logs here because I would like to see if we can do something with it. 
+
+
+Thanks,
+
+Joon
+
+25 -----------------------------------------------------------------------------------------------------------------
+
+
+     My name is Ling Jin. I am from Ningbo, China. Being attracted by the idea of thinking mathematically, I came to the United States to pursue an undergraduate education. I just graduated from University of Wisconsin-Madison with a Bachelor’s degree in Mathematics and Statistics. Although I had originally considered being an actuary, I found my true passion lay in broad data analytics field after a summer internship in an investment company last year. Therefore, I am eager to receive a comprehensive training in analytics here in Northwestern. This course is appealing to me because of the topic and the class setting. I feel it is a great opportunity for me to learn something I have not done in the past and at the same time practice my Java programming skills. Since I am still exploring my career paths, I also hope I can develop an interest in Text Analytics through this course.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+    
