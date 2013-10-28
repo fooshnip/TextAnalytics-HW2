@@ -5,7 +5,6 @@ import java.io.StringReader;
 import java.util.*; 
 
 import edu.stanford.nlp.process.CoreLabelTokenFactory;
-import edu.stanford.nlp.process.Morphology;
 import edu.stanford.nlp.process.PTBTokenizer;
 
 import org.apache.lucene.analysis.*;
@@ -29,7 +28,9 @@ public class TokenizerDemo {
 		LucenePorter("wsj_0063.txt","luceneporter.txt");
 		LuceneKStem("wsj_0063.txt","lucenekstem.txt");
 		LuceneEngAnalyzer("wsj_0063.txt","luceneengstem.txt");
-		ClassBios("classbios.txt");
+		//ClassBios("classbios.txt");
+		StanfordLemmatizer("wsj_0063.txt","stanfordlemmatizer.txt");
+		
 	}
 	public static void LuceneToken(String readin, String printout) throws IOException {
 		FileReader fr = new FileReader(readin);
@@ -113,7 +114,6 @@ public class TokenizerDemo {
 		String[] splitted = in.split("\\n");
 		fw.write("Joseph Riley\n\n");
 		fw.write("Printing KStems by sentence...\n\n");
-		Analyzer tk = new StandardAnalyzer(Version.LUCENE_45);
 		for(int i=0;i<splitted.length;i++){
 			Tokenizer tokenizer = new LowerCaseTokenizer(Version.LUCENE_45,new StringReader(splitted[i]));
 		    TokenStream stream = new KStemFilter(tokenizer);
@@ -178,5 +178,41 @@ public class TokenizerDemo {
 		}
 	}
 	
+	
+	public static void StanfordLemmatizer(String readin, String printout) throws IOException {
+	        // Create StanfordCoreNLP object properties, with POS tagging
+	        // (required for lemmatization), and lemmatization
+			FileReader fr = new FileReader(readin);
+			String in = new Scanner(fr).useDelimiter("\\Z").next();
+	        Properties props;
+	        props = new Properties();
+	        props.put("annotators", "tokenize, ssplit, pos, lemma");
 
+	        // StanfordCoreNLP loads a lot of models, so you probably
+	        // only want to do this once per execution
+	        StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+
+	        
+	        List<String> lemmas = new LinkedList<String>();
+
+	        // create an empty Annotation just with the given text
+	        Annotation document = new Annotation(in);
+	        //System.out.println(document);
+	        // run all Annotators on this text
+	        pipeline.annotate(document);
+
+	        // Iterate over all of the sentences found
+	        List<CoreMap> sentences = document.get(SentencesAnnotation.class);
+	        for(CoreMap sentence: sentences) {
+	            // Iterate over all tokens in a sentence
+	            for (CoreLabel token: sentence.get(TokensAnnotation.class)) {
+	                // Retrieve and add the lemma for each word into the
+	                // list of lemmas
+	                lemmas.add(token.get(LemmaAnnotation.class));
+	            }
+	        }
+	        FileWriter fw = new FileWriter(printout);
+			fw.write(""+lemmas);
+			fw.close();
+	    }
 }
